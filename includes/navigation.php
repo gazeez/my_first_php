@@ -1,12 +1,21 @@
 <nav>
 <h2>Website Navigation</h2>
 <ul>
-<li>
-<a href="./index.php"> Home  </a>
-</li>
-<li>
-<a href="./form.php"> Form </a>
-</li>
+      <li>
+      <a href="./index.php"> Home  </a>
+      </li>
+      <li>
+      <a href="./form.php"> Form </a>
+      </li>
+      <li>
+      <a href="./arrays.php"> Arrays </a>
+      </li>
+      <li>
+      <a href="./oop.php"> OOP </a>
+      </li>
+      <li>
+      <a href="./oop-and-file.php"> OOP and File </a>
+      </li>
 </ul>
 </nav>
 <?php //By default, naything written in a PHP fill be sent to 
